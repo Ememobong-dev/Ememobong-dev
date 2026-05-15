@@ -1,9 +1,24 @@
-## Hallo! I am Emem (as in MM😉)
+## Hallo! I'm Ememobong Olushola Umoren (Emem as in MM😉)
 
-👩🏽‍💻 Frontend Developer <br />
-👩‍🎓 Statistics Graduate in love with programming <br />
-😎 I build sleek UIs with React & Next.js <br />
-👩‍💻 I Live, I Code <br />
+I am a Frontend Engineer passionate about building modern, scalable, and visually engaging web experiences. I specialize in React.js, Next.js, TypeScript, and frontend architecture, with a strong focus on creating smooth user experiences, responsive interfaces, and clean developer-friendly codebases.
+
+Beyond frontend engineering, I’m also a Statistics graduate who enjoys blending analytical thinking with creativity to solve real-world problems through technology. My background in data and logic helps me approach development with both structure and attention to detail.
+
+### What I Work With
+
+⚡ React.js • Next.js • TypeScript • Tailwind CSS <br >
+⚡ JavaScript • Framer Motion • GSAP  <br >
+⚡ UI Engineering • Responsive Design • Frontend Systems  <br >
+
+A Little More About Me
+
+👨🏽‍💻 I enjoy building beautiful user interfaces that feel alive  <br >
+📊 Statistics graduate with a deep love for programming & problem-solving  <br >
+🚀 Passionate about performance, animations, and clean frontend architecture  <br >
+🌱 Constantly learning, improving, and exploring new technologies  <br >
+☕ I live, I code, I create  <br >
+
+🌐 Portfolio: [my-portfolio](https://emem-olushola.vercel.app/)
 
 
 ### Skills
