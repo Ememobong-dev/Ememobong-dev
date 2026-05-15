@@ -18,7 +18,7 @@ A Little More About Me
 🌱 Constantly learning, improving, and exploring new technologies  <br >
 ☕ I live, I code, I create  <br >
 
-🌐 Portfolio: [my-portfolio](https://emem-olushola.vercel.app/)
+🌐 Portfolio: [https://emem-olushola.vercel.app/](https://emem-olushola.vercel.app/)
 
 
 ### Skills
