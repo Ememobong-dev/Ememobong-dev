@@ -42,16 +42,10 @@ A Software Engineer passionate about building modern, scalable, and user-focused
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ememobong-dev&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true"
-    alt="GitHub Stats"
-  />
-
+    height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ememobong-dev&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
   <img
-    height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ememobong-dev&layout=compact&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=YOUR_OLD_HTML_REPO_1,YOUR_OLD_HTML_REPO_2"
-    alt="Most Used Languages"
-  />
+    height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ememobong-dev&layout=compact&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=YOUR_OLD_HTML_REPO_1,YOUR_OLD_HTML_REPO_2"
+    alt="Most Used Languages"/>
 </p>
 
 ### 📈 Contribution Graph
