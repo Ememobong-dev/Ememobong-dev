@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ememobong-dev">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=54&height=90&width=858&text=Hallo!%20I'm%20Emem%20Olushola" alt="Hallo! I&#39;m Emem Olushola" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=50&width=858&text=Hallo!%20I'm%20Emem%20Olushola" alt="Hallo! I&#39;m Emem Olushola" />
   </a>
 </p>
 
@@ -41,17 +41,14 @@ A Software Engineer passionate about building modern, scalable, and user-focused
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ememobong-dev&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img
-    height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ememobong-dev&layout=compact&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=YOUR_OLD_HTML_REPO_1,YOUR_OLD_HTML_REPO_2"
-    alt="Most Used Languages"/>
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ememobong-dev&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ememobong-dev&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=YOUR_OLD_HTML_REPO_1,YOUR_OLD_HTML_REPO_2" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ememobong-dev&bg_color=00000000&color=1f9c8f&line=1f9c8f&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ememobong-dev&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -62,3 +59,4 @@ A Software Engineer passionate about building modern, scalable, and user-focused
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/ememobong-dev">ememobong-dev</a></i></p>
+
